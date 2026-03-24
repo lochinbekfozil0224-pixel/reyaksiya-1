@@ -1,0 +1,51 @@
+{
+  "users": {},
+  "channels": {},
+  "bot_tokens": [
+    "8681699045:AAFVKqVBv0dNVzQK7-aOrmSJ1-Q_b7gfe5o",
+    "8759013768:AAFWISkfra8YiD6eS1lBiHAUxy4_zatbMYA",
+    "8573970509:AAFe1hm7JhyzVrzPnd-LLGmiq9ajwDsBeVw",
+    "8641574270:AAFCDrIb5Fo-Dn3b19ARLOTfxCKZAEv8kX0",
+    "8630621191:AAGlc10OSjtNy1X2uLju0daFURSMSc7twC4",
+    "8724954970:AAFIs23bnI17K-yQO2jW1DE-FHIeeOqp9Vc",
+    "8701492416:AAHFOC9O_attRC6Dd5z0xkfkpymODt13dRQ",
+    "8697305416:AAGErzKhGDMiJ2dF8NO6KDz50n1TO87xa8o",
+    "5926074561:AAH33r7YyrI2GcG5GTaPYJJ3emv_mMOkLHE",
+    "5621063764:AAEYB9lb0Xyw_LGi8gmDdr67FNN36OHothI",
+    "5686028061:AAED-jSd2_PPpguElv-8xsjEzC3YWpiidW8",
+    "8699218143:AAHhV185PgFnF5dgo1-KRDPAVcBhzTdLFgM",
+    "8682125319:AAG3IVx4zRGQ-NQ3SdlJ1NXBoRGumCxo_r4",
+    "8697027168:AAEQCjnSzM1jFOyFDrPxNFQTC1bYPF7TYP0",
+    "8674478820:AAGuSPLBJMxxhPKgW15vBQVYyH4gVu49P3o",
+    "8749611627:AAEwoNImsWvd4uQCfAoUpSgr9PSdMBj1T-I",
+    "8713397901:AAHpsBSHBbJCvTsQRZcFhCizxyzy3unHNFw",
+    "7980442073:AAEE54E2KMMAzPACyXDF3I-HwQpOurz-wGo",
+    "8748730863:AAF8V8Z2cOGQJAFIFjC7l9E2vhsS8Wc2T8k",
+    "8643770121:AAFYoGif38NO_NvHrsvf15c4Vr6wiYAQQ_8",
+    "8329152537:AAGWJFBPPmd8jCAbNwSKuLRM66CcE3UYJas"
+  ],
+  "admin_ids": [8135915671],
+  "required_channel": "",
+  "stats": {
+    "total_users": 0,
+    "reactions_sent": 0,
+    "daily_users": {}
+  },
+  "gifts": [
+    {"emoji": "🧸", "name": "Ayiq",        "price": 4000},
+    {"emoji": "❤️", "name": "Yurak",        "price": 4000},
+    {"emoji": "🌹", "name": "Atirgul",      "price": 7000},
+    {"emoji": "🎁", "name": "Sovg'a",       "price": 7000},
+    {"emoji": "🎄", "name": "Archa",        "price": 14000},
+    {"emoji": "💖", "name": "Yurak Love",   "price": 14000},
+    {"emoji": "🍾", "name": "Shampan",      "price": 14000},
+    {"emoji": "🚀", "name": "Raketa",       "price": 14000},
+    {"emoji": "💐", "name": "Gul",          "price": 14000},
+    {"emoji": "🎂", "name": "Tort",         "price": 14000},
+    {"emoji": "💎", "name": "Olmos",        "price": 25000},
+    {"emoji": "💍", "name": "Uzuk",         "price": 25000},
+    {"emoji": "🏆", "name": "Kubok",        "price": 25000}
+  ],
+  "guide_video": null,
+  "reaction_counter": 0
+}
